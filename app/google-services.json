@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "545941099108",
+    "firebase_url": "https://toyotaconnected-78f70.firebaseio.com",
+    "project_id": "toyotaconnected-78f70",
+    "storage_bucket": "toyotaconnected-78f70.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:545941099108:android:00b08d986aa2aaab",
+        "android_client_info": {
+          "package_name": "com.example.ivan.toyotaconnected"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "545941099108-g9frsm8pdf7ibkk0nsnri79400hi3kmr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ivan.toyotaconnected",
+            "certificate_hash": "ec60fc8494b42d60bf2212b67eff47272bb81bca"
+          }
+        },
+        {
+          "client_id": "545941099108-sa3h27ms52much3g53nj71hd32aties8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8SW-s9SynEqDY2XjhvCQ6JBW82svAfX8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "545941099108-sa3h27ms52much3g53nj71hd32aties8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

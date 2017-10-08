@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="mailgun-1.5.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.sargue/mailgun/1.5.0/3477a694b66e1c13444b268fbf9bfa33bf3fd48d/mailgun-1.5.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.sargue/mailgun/1.5.0/3472793e74054665863688f75c3c8c29f394f46c/mailgun-1.5.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,299 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Ivan\.android\build-cache\842b7a85b6ce599bbd2ae8d46a46a3df90dd3cf3\output\jars\classes.jar"
+        revision="26.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="C:\Users\Ivan\AndroidStudioProjects\ToyotaConnected\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-6000da926e7cd5e81f9cbc30f55bf3c292f7e059.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ivan\.android\build-cache\691138afe3169c84d47dc4029971b01fd2e39b53\output\jars\classes.jar"
+        revision="26.0.2"
+        sha1="486371f97baad8e607f332f20fee1d3dd00a731a">
+        <dex dex="C:\Users\Ivan\AndroidStudioProjects\ToyotaConnected\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-4191862825de1b6b97f9d233c77e9e057d715ed0.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ivan\.android\build-cache\00b715536496c1dbaf0397f76340eec2e6011ee2\output\jars\classes.jar"
+        revision="26.0.2"
+        sha1="94ba691efc31bf53264db0716d9c9ec03843ea31">
+        <dex dex="C:\Users\Ivan\AndroidStudioProjects\ToyotaConnected\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-43861f0d3ff504df13bda8b0cf9467f3a82a5af5.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ivan\.gradle\caches\modules-2\files-2.1\org.glassfish.hk2\hk2-locator\2.5.0-b30\82056cbbd258647bbc6b80debe4e6b7121c61be9\hk2-locator-2.5.0-b30.jar"
+        revision="26.0.2"
+        sha1="82056cbbd258647bbc6b80debe4e6b7121c61be9">
+        <dex dex="C:\Users\Ivan\AndroidStudioProjects\ToyotaConnected\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\hk2-locator-2.5.0-b30-9c39067fec64f5a03e19e0ac03c8d0642dd08c47.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ivan\.android\build-cache\e9298b9759212890782e2b5eea1351d204f011ff\output\jars\classes.jar"
+        revision="26.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="C:\Users\Ivan\AndroidStudioProjects\ToyotaConnected\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-2ae15160aa353ce614ade3581661991e9076af2c.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ivan\.gradle\caches\modules-2\files-2.1\org.glassfish.jersey.media\jersey-media-multipart\2.25\c16881a7522dc8e2636bf5024d183919c16a7f75\jersey-media-multipart-2.25.jar"
+        revision="26.0.2"
+        sha1="c16881a7522dc8e2636bf5024d183919c16a7f75">
+        <dex dex="C:\Users\Ivan\AndroidStudioProjects\ToyotaConnected\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\jersey-media-multipart-2.25-9e9ff8d65d360545be1f222713c19000e9f424d3.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ivan\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        revision="26.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="C:\Users\Ivan\AndroidStudioProjects\ToyotaConnected\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\support-annotations-25.3.1-8361ee3cb9c0eeea77dd512a8d7ba21fd49e50c2.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ivan\AppData\Local\Android\Sdk\platforms\android-25\android.jar"
+        revision="26.0.2"
+        sha1="712a0312fe844a21a1b3812fa960c363a1578984">
+        <dex dex="C:\Users\Ivan\AndroidStudioProjects\ToyotaConnected\app\build\intermediates\transforms\preJackRuntimeLibraries\debug\jars\8000\40\android-6aaa9f5ff60fe0df02fc3dcf388f7b29c24df0c8.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ivan\.android\build-cache\03b03888a6244d4df60bec242a26145f06197e2a\output\jars\classes.jar"
+        revision="26.0.2"
+        sha1="433f4d6aa5f21f19552afe0e6c5eff0fedba73ad">
+        <dex dex="C:\Users\Ivan\AndroidStudioProjects\ToyotaConnected\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-22fc76246b8572d02c100ee92754545eeaef79d3.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ivan\.gradle\caches\modules-2\files-2.1\javax.annotation\javax.annotation-api\1.2\479c1e06db31c432330183f5cae684163f186146\javax.annotation-api-1.2.jar"
+        revision="26.0.2"
+        sha1="479c1e06db31c432330183f5cae684163f186146">
+        <dex dex="C:\Users\Ivan\AndroidStudioProjects\ToyotaConnected\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\javax.annotation-api-1.2-c03760b90ae83d3963afe80c3ee77f309b1ffcdc.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ivan\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-tasks\1.4.0\d85884acf6810a3bbbecb587f239005cbc846dc4\bolts-tasks-1.4.0.jar"
+        revision="26.0.2"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="C:\Users\Ivan\AndroidStudioProjects\ToyotaConnected\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\bolts-tasks-1.4.0-6f03bc26effb303b09c260af560f072b5eddb95c.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ivan\.gradle\caches\modules-2\files-2.1\org.glassfish.hk2.external\aopalliance-repackaged\2.5.0-b30\4e882c90e9ba801803991b4000e6d9ad216ac261\aopalliance-repackaged-2.5.0-b30.jar"
+        revision="26.0.2"
+        sha1="4e882c90e9ba801803991b4000e6d9ad216ac261">
+        <dex dex="C:\Users\Ivan\AndroidStudioProjects\ToyotaConnected\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\aopalliance-repackaged-2.5.0-b30-74188e81e8c282bd592d8345e0790214dda1de5c.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ivan\.android\build-cache\ae5afe3ee04c66c3da15c08583c0a1275f402715\output\jars\classes.jar"
+        revision="26.0.2"
+        sha1="6addaba208e21c6da776d0ca75b6b23a6ccd5499">
+        <dex dex="C:\Users\Ivan\AndroidStudioProjects\ToyotaConnected\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-dfec84ccc0dce7bdadf323549e7bfad0576f4667.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ivan\.android\build-cache\4d4fa18f1068470a501aca74ce83ff13e7ec9c35\output\jars\classes.jar"
+        revision="26.0.2"
+        sha1="6116e0e7069de7fc259aac8e08b84f32c2038231">
+        <dex dex="C:\Users\Ivan\AndroidStudioProjects\ToyotaConnected\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-0ddced868cfcb5e0f3ab754268e2fb8356c0c3ab.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ivan\.android\build-cache\c3e7c8a5d450d962d2f792352daaedaa72a0d5fc\output\jars\classes.jar"
+        revision="26.0.2"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="C:\Users\Ivan\AndroidStudioProjects\ToyotaConnected\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-94b588cacb51574603cc7979c9a73f0b8ac8e15b.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ivan\.android\build-cache\8fde3970c9becf63e4a3e19511acd3da54c115fa\output\jars\classes.jar"
+        revision="26.0.2"
+        sha1="0d94c39080a309d1887f50ef68cc96dfe4bc9d01">
+        <dex dex="C:\Users\Ivan\AndroidStudioProjects\ToyotaConnected\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-bea045e3fe65fb421347674262e96fa5a50b347c.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ivan\.android\build-cache\c62241fb80226490e02a1d8a9396e074317ed770\output\jars\classes.jar"
+        revision="26.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="C:\Users\Ivan\AndroidStudioProjects\ToyotaConnected\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-1c0211534b74410567509d76dda2b1b9df393e26.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ivan\.gradle\caches\modules-2\files-2.1\org.glassfish.jersey.core\jersey-client\2.25\416a00562f25d7efdba015e5c21876d19163edd0\jersey-client-2.25.jar"
+        revision="26.0.2"
+        sha1="416a00562f25d7efdba015e5c21876d19163edd0">
+        <dex dex="C:\Users\Ivan\AndroidStudioProjects\ToyotaConnected\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\jersey-client-2.25-4af5a6d3cf128a6df1c833a13af8037a5434aaa5.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ivan\.gradle\caches\modules-2\files-2.1\javax.ws.rs\javax.ws.rs-api\2.0.1\104e9c2b5583cfcfeac0402316221648d6d8ea6b\javax.ws.rs-api-2.0.1.jar"
+        revision="26.0.2"
+        sha1="104e9c2b5583cfcfeac0402316221648d6d8ea6b">
+        <dex dex="C:\Users\Ivan\AndroidStudioProjects\ToyotaConnected\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\javax.ws.rs-api-2.0.1-8e175d40a6d829f5f68eba8649d2fe48004c34a6.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ivan\.android\build-cache\c586684de414296772553dfbcd3898408cea2c1a\output\jars\classes.jar"
+        revision="26.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="C:\Users\Ivan\AndroidStudioProjects\ToyotaConnected\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-ed6a06f231d26360755c7b10d9cf9c30f98005e6.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ivan\.android\build-cache\d0482b0fea6c1f8899df7c70412582b694babfaf\output\jars\classes.jar"
+        revision="26.0.2"
+        sha1="7a07787cfffc128e021bae632dc5f039901d44c1">
+        <dex dex="C:\Users\Ivan\AndroidStudioProjects\ToyotaConnected\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-16526f1dcd06ae6e07e05de78e81a91f0bd877f8.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ivan\.gradle\caches\modules-2\files-2.1\org.jetbrains\annotations\15.0\d40ab99147584cf6cfb5245be67b3fee2c7220f9\annotations-15.0.jar"
+        revision="26.0.2"
+        sha1="d40ab99147584cf6cfb5245be67b3fee2c7220f9">
+        <dex dex="C:\Users\Ivan\AndroidStudioProjects\ToyotaConnected\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\annotations-15.0-55aaadd3448fb30892267696b456e7f1965ad380.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ivan\.gradle\caches\modules-2\files-2.1\org.jvnet.mimepull\mimepull\1.9.6\41c913d791e16f93bc712a8c8a30bb64daa2e9bd\mimepull-1.9.6.jar"
+        revision="26.0.2"
+        sha1="41c913d791e16f93bc712a8c8a30bb64daa2e9bd">
+        <dex dex="C:\Users\Ivan\AndroidStudioProjects\ToyotaConnected\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\mimepull-1.9.6-b321eabf67fbdbe65e64adf84bb4c47bfb782e02.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ivan\.android\build-cache\a2033eebb76d9a1a5c21294549c24c37f6b1bb5e\output\jars\classes.jar"
+        revision="26.0.2"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="C:\Users\Ivan\AndroidStudioProjects\ToyotaConnected\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-9cb4b5cd02a867baaa5584ecfe5655108ed775b8.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ivan\AppData\Local\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        revision="26.0.2"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="C:\Users\Ivan\AndroidStudioProjects\ToyotaConnected\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\constraint-layout-solver-1.0.2-84ddcb34bfdd86dc85031670331f31eee056abb8.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ivan\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-android\1.4.0\cc174c559b5177982887bf6e1b76003aebad9516\bolts-android-1.4.0.jar"
+        revision="26.0.2"
+        sha1="cc174c559b5177982887bf6e1b76003aebad9516">
+        <dex dex="C:\Users\Ivan\AndroidStudioProjects\ToyotaConnected\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\bolts-android-1.4.0-029cd77c710ec551683b9817c49c917d507d443f.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ivan\.android\build-cache\c3e3320cc5d5e30daa40091db142450d79f5b273\output\jars\classes.jar"
+        revision="26.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="C:\Users\Ivan\AndroidStudioProjects\ToyotaConnected\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-c8fe2e25b9959c63a28758e27fa2495b14a63f76.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ivan\AppData\Local\Android\Sdk\platforms\android-25\optional\org.apache.http.legacy.jar"
+        revision="26.0.2"
+        sha1="5f0541a4298daa0590b22cfbde43f85e2a675545">
+        <dex dex="C:\Users\Ivan\AndroidStudioProjects\ToyotaConnected\app\build\intermediates\transforms\preJackRuntimeLibraries\debug\jars\8000\40\org.apache.http.legacy-b06ea8afa4d5647ca55bac4df6539b0287b5ae62.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ivan\.android\build-cache\5489e05fb179d4f4276524191106abe85b628b35\output\jars\classes.jar"
+        revision="26.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="C:\Users\Ivan\AndroidStudioProjects\ToyotaConnected\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-392ea880f9045f830177b3620be9e2ffe48a4871.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ivan\.android\build-cache\99ea8fa5755b838c0fa351689e005b077593d2fd\output\jars\classes.jar"
+        revision="26.0.2"
+        sha1="8a372c4191f80489770a231f7be4820b204b886a">
+        <dex dex="C:\Users\Ivan\AndroidStudioProjects\ToyotaConnected\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-352a9cec39278097075114d80b530feba3febf72.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ivan\.android\build-cache\968a12cee3a4b618b3c0e97dfb87344ae40d548e\output\jars\classes.jar"
+        revision="26.0.2"
+        sha1="eb0d830e3eabb9deb9ec44869cf7ac7ea1ad794c">
+        <dex dex="C:\Users\Ivan\AndroidStudioProjects\ToyotaConnected\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-25d076a57626c2fedd23dcd47436777a530a8b45.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ivan\.gradle\caches\modules-2\files-2.1\org.glassfish.hk2.external\javax.inject\2.5.0-b30\54b36144fd2fb684f9cee73d96060bb82e4d363\javax.inject-2.5.0-b30.jar"
+        revision="26.0.2"
+        sha1="054b36144fd2fb684f9cee73d96060bb82e4d363">
+        <dex dex="C:\Users\Ivan\AndroidStudioProjects\ToyotaConnected\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\javax.inject-2.5.0-b30-358c8d287803a37f6f9ba937a2a349d8757ba549.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ivan\.android\build-cache\67ce356b124e0190666c05f83f3c766f8bc5a938\output\jars\classes.jar"
+        revision="26.0.2"
+        sha1="756f6297eef79784f5e356dcd4f39865028b2bd0">
+        <dex dex="C:\Users\Ivan\AndroidStudioProjects\ToyotaConnected\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-ed9d06e9c4f0090f0fa724f410875850e3be4fcc.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ivan\.gradle\caches\modules-2\files-2.1\org.glassfish.hk2\hk2-utils\2.5.0-b30\b17fc7d8082ac00e59cd96fda9cff21f24cc367c\hk2-utils-2.5.0-b30.jar"
+        revision="26.0.2"
+        sha1="b17fc7d8082ac00e59cd96fda9cff21f24cc367c">
+        <dex dex="C:\Users\Ivan\AndroidStudioProjects\ToyotaConnected\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\hk2-utils-2.5.0-b30-0a5d0f05ad3bbeb7df1184a5abad9e720425f17e.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ivan\.android\build-cache\7c55f6164940613f67d354f02b465a69f517b99e\output\jars\classes.jar"
+        revision="26.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="C:\Users\Ivan\AndroidStudioProjects\ToyotaConnected\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-adb4699d3430905b121942f4d00f9adcf73886c5.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ivan\.gradle\caches\modules-2\files-2.1\org.javassist\javassist\3.20.0-GA\a9cbcdfb7e9f86fbc74d3afae65f2248bfbf82a0\javassist-3.20.0-GA.jar"
+        revision="26.0.2"
+        sha1="a9cbcdfb7e9f86fbc74d3afae65f2248bfbf82a0">
+        <dex dex="C:\Users\Ivan\AndroidStudioProjects\ToyotaConnected\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\javassist-3.20.0-GA-adc32e43e3f543b0e5bfff6c94d3ccd5f09e66d0.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ivan\.android\build-cache\107dd77bd76941a65cc8a824083ce6e9eab0658e\output\jars\classes.jar"
+        revision="26.0.2"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="C:\Users\Ivan\AndroidStudioProjects\ToyotaConnected\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-31e99df897fb8cf9e5daae6797efb6b053565a72.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ivan\.gradle\caches\modules-2\files-2.1\org.glassfish.hk2\osgi-resource-locator\1.0.1\4ed2b2d4738aed5786cfa64cba5a332779c4c708\osgi-resource-locator-1.0.1.jar"
+        revision="26.0.2"
+        sha1="4ed2b2d4738aed5786cfa64cba5a332779c4c708">
+        <dex dex="C:\Users\Ivan\AndroidStudioProjects\ToyotaConnected\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\osgi-resource-locator-1.0.1-a604ee211a09bd104eb5afb24fd92b93c947542e.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ivan\.gradle\caches\modules-2\files-2.1\org.glassfish.jersey.core\jersey-common\2.25\b38e1a1af6ad75dd9037a767764b0d41801f1c9f\jersey-common-2.25.jar"
+        revision="26.0.2"
+        sha1="b38e1a1af6ad75dd9037a767764b0d41801f1c9f">
+        <dex dex="C:\Users\Ivan\AndroidStudioProjects\ToyotaConnected\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\jersey-common-2.25-4272b9d46fc02c528eef305da8ed71f17244a1db.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ivan\.android\build-cache\2ffbc89b4aee761cf6b6714ec51e7f35cbe625a1\output\jars\classes.jar"
+        revision="26.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Ivan\AndroidStudioProjects\ToyotaConnected\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-43ec21261ac03e5388defa9b5e016d75f3949082.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ivan\.android\build-cache\8689726421976510abd8bdfc4b7b81a702daaa02\output\jars\classes.jar"
+        revision="26.0.2"
+        sha1="8f128aeeb7e31271b28a7adb9dac1f3a6ed9f5e7">
+        <dex dex="C:\Users\Ivan\AndroidStudioProjects\ToyotaConnected\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-28e0ca423cef88934947fbc2f1be5338580afe8d.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ivan\.gradle\caches\modules-2\files-2.1\org.glassfish.hk2\hk2-api\2.5.0-b30\5c6688a6bafcd2098bef4ca45226d5355b816647\hk2-api-2.5.0-b30.jar"
+        revision="26.0.2"
+        sha1="5c6688a6bafcd2098bef4ca45226d5355b816647">
+        <dex dex="C:\Users\Ivan\AndroidStudioProjects\ToyotaConnected\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\hk2-api-2.5.0-b30-e3e10e19e4536e85a504aa22d5ab48ac4887e0ee.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ivan\.gradle\caches\modules-2\files-2.1\org.glassfish.jersey.bundles.repackaged\jersey-guava\2.25\4439bddb870b210e40ca2e953813930be424dc0c\jersey-guava-2.25.jar"
+        revision="26.0.2"
+        sha1="4439bddb870b210e40ca2e953813930be424dc0c">
+        <dex dex="C:\Users\Ivan\AndroidStudioProjects\ToyotaConnected\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\jersey-guava-2.25-7dac845945c4e5a8f1f7abd6f22fa7fd5aa8240e.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ivan\.android\build-cache\f1610e23d8d3c6896a081bf7e13505a101cbca66\output\jars\classes.jar"
+        revision="26.0.2"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="C:\Users\Ivan\AndroidStudioProjects\ToyotaConnected\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-f2363d2ab21379aa83e85afae106b2ce52474e03.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ivan\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-applinks\1.4.0\8ad21bf21784dacce5f2043afb97218cc377e835\bolts-applinks-1.4.0.jar"
+        revision="26.0.2"
+        sha1="8ad21bf21784dacce5f2043afb97218cc377e835">
+        <dex dex="C:\Users\Ivan\AndroidStudioProjects\ToyotaConnected\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\bolts-applinks-1.4.0-119f3a49ddb7e081a653576a744a2bf526fd8b2e.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ivan\.gradle\caches\modules-2\files-2.1\javax.inject\javax.inject\1\6975da39a7040257bd51d21a231b76c915872d38\javax.inject-1.jar"
+        revision="26.0.2"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="C:\Users\Ivan\AndroidStudioProjects\ToyotaConnected\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\javax.inject-1-3242652fe724fd5282db907f5d9957085be87b70.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ivan\.android\build-cache\233a0b500fca5d2c842666567165d59d1c6b8708\output\jars\classes.jar"
+        revision="26.0.2"
+        sha1="8010ae6ed32828a145b25ec97bc07b7a83c6318f">
+        <dex dex="C:\Users\Ivan\AndroidStudioProjects\ToyotaConnected\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-ce9470162198a47f47663b1cab5f384ef2b82be7.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ivan\.android\build-cache\c6686f2a3c8c4c69d2186a93a0773e9b023824c4\output\jars\classes.jar"
+        revision="26.0.2"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="C:\Users\Ivan\AndroidStudioProjects\ToyotaConnected\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-2ebf7c1273469e6dda3e7af5cf9ac0ffe7481634.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ivan\.gradle\caches\modules-2\files-2.1\net.sargue\mailgun\1.5.0\3477a694b66e1c13444b268fbf9bfa33bf3fd48d\mailgun-1.5.0.jar"
+        revision="26.0.2"
+        sha1="3477a694b66e1c13444b268fbf9bfa33bf3fd48d">
+        <dex dex="C:\Users\Ivan\AndroidStudioProjects\ToyotaConnected\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\mailgun-1.5.0-6f1d334b0ef3bf0e20ff6d3d4a5881fb2a52b79f.jar" />
+    </item>
+
+</items>

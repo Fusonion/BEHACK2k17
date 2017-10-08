@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:id="@+id/menu_water">
+
+        <item
+            android:id="@+id/nav_map"
+            android:icon="@drawable/map"
+            android:title="Map" />
+        <item
+            android:id="@+id/nav_create_water_report"
+            android:icon="@drawable/water_pump"
+            android:title="Create Water Report" />
+        <item
+            android:id="@+id/nav_view_water_reports"
+            android:icon="@drawable/view_list"
+            android:title="View Water Reports" />
+        <item
+            android:id="@+id/nav_create_purity_report"
+            android:icon="@drawable/water_purity"
+            android:title="Create Purity Report"
+            android:visible="true" />
+
+        <item
+            android:id="@+id/nav_view_purity_reports"
+            android:icon="@drawable/view_list"
+            android:title="View Purity Reports"
+            android:visible="true" />
+
+        <item
+            android:id="@+id/nav_view_histogram"
+            android:icon="@drawable/chart_line"
+            android:title="View Histogram"
+            android:visible="true" />
+    </group>
+
+    <group android:id="@+id/menu_user">
+
+        <item
+            android:id="@+id/nav_profile"
+            android:icon="@drawable/ic_account_circle_black_24dp"
+            android:title="Profile" />
+        <item
+            android:id="@+id/nav_log_out"
+            android:icon="@drawable/ic_exit_to_app_black_24dp"
+            android:title="Log Out" />
+    </group>
+
+</menu>
